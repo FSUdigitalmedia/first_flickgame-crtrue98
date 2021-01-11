@@ -1,4 +1,4 @@
-# Terms of (Eternal) Serivce
+# Terms of (Eternal) Service
 
 ## Description
 

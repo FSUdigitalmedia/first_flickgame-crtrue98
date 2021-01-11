@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Terms of (Eternal) Serivce
 
 ## Description
 
-Description of the game goes here.
+A flickgame based on paperwork as eternal suffering. 
 
